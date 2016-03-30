@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Panda:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Panda_jar</output-path>
+    <root id="archive" name="Panda.jar">
+      <element id="module-output" name="Panda" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/MySQL/Connector.J 5.1/mysql-connector-java-5.1.38-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jre/lib/json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
